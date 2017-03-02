@@ -16,6 +16,17 @@ http://topiptv.net:5890/live/serge3/serge3/2029.ts
 #EXTINF:-1,BEL|Voo Sport World 1
 http://topiptv.net:5890/live/serge3/serge3/2625.ts
 #EXTINF:-1,BEL|Eleven Sport
+http://topiptv.net:5890/live/serge3/serge3/2627.ts
+#EXTINF:-1,UK|Sky1 HD
+http://topiptv.net:5890/live/serge3/serge3/266.ts
+#EXTINF:-1,UK|Sky2
+http://topiptv.net:5890/live/serge3/serge3/267.ts
+#EXTINF:-1,UK|BBC One HD
+http://topiptv.net:5890/live/serge3/serge3/297.ts
+#EXTINF:-1,UK|BBC Two HD
+http://topiptv.net:5890/live/serge3/serge3/298.ts
+#EXTINF:-1,UK|BBC Three HD
+http://topiptv.net:5890/live/serge3/serge3/299.ts
 #EXTINF:-1,UK|Sky Sports 1 HD
 http://topiptv.net:5890/live/serge3/serge3/273.ts
 #EXTINF:-1,UK|Sky Sports 2 HD
@@ -43,6 +54,7 @@ http://topiptv.net:5890/live/serge3/serge3/289.ts
 #EXTINF:-1,UK|DiscoveryWorld
 http://topiptv.net:5890/live/serge3/serge3/1260.ts
 #EXTINF:-1,UK|AnimalPlanet
+http://topiptv.net:5890/live/serge3/serge3/288.ts
 #EXTINF:-1,NED|NPO 1
 http://topiptv.net:5890/live/serge3/serge3/842.ts
 #EXTINF:-1,NED|NPO 2
