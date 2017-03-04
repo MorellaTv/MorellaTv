@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 radio="true", KEXP 90.3 - Seattle
 http://live-mp3-128.kexp.org:80/kexp128.mp3
-#EXTINF:-1 tvg-logo="/Pictures/StudioBrussel.png, Studio Brussel
+#EXTINF:-1 radio="true", Studio Brussel
 http://mp3.streampower.be/stubru-high.mp3
